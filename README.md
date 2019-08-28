@@ -14,7 +14,7 @@ Execute the `build.sh` script found in the `scripts` directory:
 ```bash
 $ git clone git@github.com:pillar-markup/pillar.git
 $ cd pillar
-$ ./scripts/build.sh
+$ sh ./scripts/build.sh
 ```
 
 The script will create a `build` directory in your current working directory with the pillar installation.
