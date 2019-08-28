@@ -12,7 +12,7 @@ Pillar is a markup syntax and tool-suite to generate documentation, books, websi
 Execute the `build.sh` script found in the `scripts` directory:
 
 ```bash
-$ git clone git@github.com:pillar-markup/pillar.git
+$ git clone git@github.com:pillar-markup/pillar.git -b 7.4.1 
 $ cd pillar
 $ ./scripts/build.sh
 ```
